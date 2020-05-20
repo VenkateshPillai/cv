@@ -1,0 +1,210 @@
+body{
+  margin: 0;
+  background-color: ghostwhite;
+text-align: center;
+}
+h1{
+  color: #66BFBF;;
+  font-size: 3em;
+font-family: 'Philosopher', sans-serif;
+text-align: center;
+}
+h2{
+  font-size: 1.5rem;
+  font-family: 'El Messiri', sans-serif;
+  text-align: center;
+}
+h3{
+  font-size: 1.2rem;
+  font-family: 'El Messiri', sans-serif;
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+hr{
+  border-style: dashed;
+  width:5%;
+  border-width: 3px;
+  display:inline-block;
+  color:ivory;
+}
+.bd{padding-top: 50px;
+  padding-bottom: 0;
+  background-color: powderblue;
+}
+.middle-container{
+  padding-top: 30px;
+  background-color: blanchedalmond;
+}
+#moun{
+  position:relative;
+  margin-bottom: 0;
+}
+#pro{
+  height:150px;
+  width:150px;
+  border-radius: 150px;
+}
+#sub-title{
+  font-weight: normal;
+  color: #66BFBF;;
+  font-size: 1.5rem;
+}
+#lower{
+  font-family: 'Orbitron', sans-serif;
+  font-size:10px;
+  position:fixed;
+  bottom:0;
+}
+#credit{
+  postion: absolute;
+  bottom: 30px;
+}
+#Web-Dev-Logo{
+  height:150px;
+  width:150px;
+  border-radius: 120px;
+  position: relative;
+    top:10px;
+    left: 250px;
+  margin:0;
+  float:left;
+}
+#Auto-Logo{
+  float:right;
+  margin-top: 20px;
+  margin-right: 250px;
+  height:100px;
+  width:180px;
+}
+#sk2{text-align: right;
+  position:relative;
+  margin: auto auto auto 500px;
+}
+#aut{position: absolute;
+  margin-left: 480px;
+}
+#aut-con{
+text-align: right;
+line-height: 30px;
+position: relative;
+margin-top: 40px;
+}
+.skill1{
+  text-align: left;
+  margin: 10px auto auto 415px;
+  }
+  .skill2{
+    text-align: left;
+    margin: 10px auto auto 415px;
+    }
+/*#sk11{
+  position: relative;
+  right: 40px;
+}*/
+#wb{
+  margin: 55px 690px 10px auto;
+  text-align: center;
+}
+#cloud{
+  position:absolute;
+  top:250px;
+  left:100px;
+}
+#cloud2{
+  position:absolute;
+  top:120px;
+  right:120px;
+}
+#Elec-Logo{
+  height:150px;
+  width:150px;
+  /*border-radius: 120px;*/
+  float: left;
+  position: relative;
+  margin: auto auto auto 250px;
+  }
+#ee{
+  margin: 55px 690px 10px auto;
+  text-align: left;
+  }
+#skill3{
+  line-height: 30px;
+  text-align: left;
+  margin: 10px auto auto 400px;
+}
+#soc{
+  word-spacing: 10px;
+}
+.skills{
+  margin:auto auto 100px auto;
+
+}
+/*.red{
+      /*height: 0.5%;
+      width: 100%;
+      background-color: orangered;
+      position:fixed;
+      left:0;
+      top:98.5%;
+
+  }
+.white{
+      height: 0.5%;
+      width: 100%;
+      background-color: white;
+      position:fixed;
+      left:0;
+      top: 99%;
+  }
+.green{
+      height: 0.5%;
+      width: 100%;
+      background-color: green;
+      position:fixed;
+      left:0;
+      top: 99.5%;
+
+  }*/
+  .fixed{
+    position: fixed;
+
+  }
+  .contact-me{
+    background-color: aquamarine;
+    padding:10px;
+  }
+  .bottom-container{
+    background-color: aquamarine;
+  padding: 20px;
+}.btn {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #b2d5ff 100%);
+	background-color:#7892c2;
+	border-radius:10px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #e3e3e3;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #b2d5ff 5%, #7892c2 100%);
+	background-color:#b2d5ff;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+  /*  .Ashoka{position:absolute;
+    top:0;
+    right:50%;
+      height: 100%;
+    width: 1%;
+  }*/
